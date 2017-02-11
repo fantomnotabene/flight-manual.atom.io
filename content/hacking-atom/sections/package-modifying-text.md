@@ -3,7 +3,7 @@ title: "Package: Modifying Text"
 ---
 ### Package: Modifying Text
 
-Now that we have our first package written, let's go through examples of other types of packages we can make. This section will guide you though creating a simple command that replaces the selected text with [ascii art](https://en.wikipedia.org/wiki/ASCII_art). When you run our new command with the word "cool" selected, it will be replaced with:
+Now that we have our first package written, let's go through examples of other types of packages we can make. This section will guide you through creating a simple command that replaces the selected text with [ascii art](https://en.wikipedia.org/wiki/ASCII_art). When you run our new command with the word "cool" selected, it will be replaced with:
 
 ```
                                      o888
